@@ -1,6 +1,5 @@
-class Coach (val surname: String,
+data class Coach (val surname: String,
              val name: String,
-             val middleName: String)
-{
+             val middleName: String) {
 
 }
